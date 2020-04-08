@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe game to practice React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NhatHHo/tic-tac-toe.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nhat Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NhatHHo/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/NhatHHo/tic-tac-toe#readme"
+}
